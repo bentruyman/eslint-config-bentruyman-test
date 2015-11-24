@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-bentruyman-test",
+  "version": "1.0.0",
+  "description": "A shareable eslint configuration for project's tests created by Ben Truyman",
+  "main": "index.js",
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bentruyman/eslint-config-bentruyman-test.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Ben Truyman <ben@truyman.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bentruyman/eslint-config-bentruyman-test/issues"
+  },
+  "homepage": "https://github.com/bentruyman/eslint-config-bentruyman-test#readme",
+  "dependencies": {
+    "eslint-config-bentruyman": "^1.0.0"
+  }
+}
